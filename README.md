@@ -118,9 +118,4 @@ Add the following files to this GitHub repository:
 -   `Air_Pollution_Dashboard.pbix` --- Power BI report file (if
     available)
 
-------------------------------------------------------------------------
 
-*Note: The numerical findings above are calculated from the supplied
-CSV. Dashboard descriptions are based on the dashboard screenshot
-provided. The screenshot does not show slicers, a what-if parameter,
-forecasting, or an AI visual, so these features are not claimed here.*
